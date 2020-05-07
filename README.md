@@ -1,5 +1,5 @@
 # chunky_aidn_training
-training data for AI denoisers and Chunky
+Chunky training data for AI denoisers (WIP)
 
 Reference: https://openimagedenoise.github.io/documentation.html#training
 
